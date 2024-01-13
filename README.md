@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sam
 - 👀 I’m interested in Web Development and cybersecurity
-- 🌱 I’m currently learning JS
+- I'm Web Developer Front-End Jr
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I'd love to collaborate with you
 
 <!---
