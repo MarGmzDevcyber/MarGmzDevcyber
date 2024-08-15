@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam
+# 👋 Hi, I’m Sam
 - 👀 I’m interested in Web Development and cybersecurity
 - I'm Web Developer Front-End Jr
 - 🌱 I’m currently learning Cybersecurity
